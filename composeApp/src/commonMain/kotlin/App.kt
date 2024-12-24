@@ -64,7 +64,7 @@ fun AppContent(homeViewModel: HomeViewModel) {
                             verticalArrangement = Arrangement.Center,
                             horizontalAlignment = Alignment.CenterHorizontally,
                         ) {
-
+                            Image()
                         }
                     }
                 }
